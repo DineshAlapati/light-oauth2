@@ -1,5 +1,3 @@
-# light-oauth2
-
 A fast, light weight and cloud native OAuth 2.0 Server based on microservices architecture 
 built on top of light-4j and light-rest-4j frameworks. 
 
